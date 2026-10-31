@@ -1,0 +1,6 @@
+{
+  "name": "ERP Scolaire RDC",
+  "description": "ERP éducatif multi-tenant pour écoles primaires et secondaires en RDC. Pédagogie, bulletins, finances CDF/USD, présences et synchronisation hors-ligne.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
